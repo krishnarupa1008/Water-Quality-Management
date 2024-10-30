@@ -13,7 +13,9 @@ Deep Learning | Autoencoders | Unsupervised Learning | Clustering | Deep Cluster
 
 ### Project Structure and Methodology:
 
-### Business Impact of Analyses:
+### Business Impact:
+
+### Conclusion and Future Work:
 
 
 
